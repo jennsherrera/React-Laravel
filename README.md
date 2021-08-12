@@ -1,2 +1,2 @@
-# pagina-web
+# React Laravel
 Primera prueba para github
